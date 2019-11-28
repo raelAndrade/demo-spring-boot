@@ -2,6 +2,7 @@
 body {
 	color: #337ab7;
 }
+
 #page-wrapper {
 	min-height: 888px;
 }
@@ -26,7 +27,7 @@ body {
 	position: relative;
 	margin-left: 0;
 	margin-right: 0;
-	top: 200px;
+	top: 130px;
 	display: block;
 }
 
