@@ -1,0 +1,38 @@
+body {
+	color: #337ab7;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+.icone-home {
+	position: relative;
+	margin-left: 0;
+	margin-right: 0;
+	top: 200px;
+	display: block;
+}
+
+.navbar-top-links>li>a {
+    color: #337ab7;
+}
+
+.navbar-inverse {
+    background-color: #f5d8ef;
+    border-color: #f5d8ef;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #f5d8ef;
+    border-color: #f5d8ef;
+}
+
+
+.navbar-top-links>li>a:hover, .navbar-top-links>li>a:focus, .navbar-top-links>.open>a, .navbar-top-links>.open>a:hover, .navbar-top-links>.open>a:focus {
+    color: #fff;
+    background-color: #af66a0;
+}
